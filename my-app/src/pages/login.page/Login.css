@@ -1,0 +1,8 @@
+.LoginPage {
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    display: flex;
+    background-color: #0f0f0f;
+    color: rgb(255, 255, 255);
+}
